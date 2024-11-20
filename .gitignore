@@ -4,3 +4,8 @@
 .gitconfig
 .envrc
 .set_env.sh
+
+.config/
+.viminfo
+Library/
+justfile
