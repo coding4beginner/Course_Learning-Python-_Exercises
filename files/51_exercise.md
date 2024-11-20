@@ -1,0 +1,10 @@
+# Exercise 51
+# 
+
+Use class Subclass(ParentClass) to define a subclass.
+
+
+
+
+
+# Write your solution below:

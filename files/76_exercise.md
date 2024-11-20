@@ -1,0 +1,8 @@
+# Exercise 76
+# Use random.choice() to a random element from a list.
+
+
+
+
+
+# Write your solution below:

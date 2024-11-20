@@ -1,0 +1,12 @@
+# Exercise 23
+# Write a method which can calculate square value of number
+
+
+
+Using the ** operator
+
+
+
+
+
+# Write your solution below:

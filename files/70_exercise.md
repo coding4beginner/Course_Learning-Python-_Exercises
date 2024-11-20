@@ -1,0 +1,8 @@
+# Exercise 70
+# Use "assert expression" to make assertion.
+
+
+
+
+
+# Write your solution below:

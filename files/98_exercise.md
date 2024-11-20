@@ -1,0 +1,8 @@
+# Exercise 98
+# Use list[::2] to iterate a list by step 2.
+
+
+
+
+
+# Write your solution below:

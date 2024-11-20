@@ -1,0 +1,10 @@
+# Exercise 56
+# 
+
+Use try/except to catch exceptions.
+
+
+
+
+
+# Write your solution below:
