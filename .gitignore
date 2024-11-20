@@ -1,0 +1,6 @@
+.local
+.venv
+
+.gitconfig
+.envrc
+.set_env.sh
