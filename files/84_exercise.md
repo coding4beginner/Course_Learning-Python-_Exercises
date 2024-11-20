@@ -1,8 +1,0 @@
-# Exercise 84
-# Use shuffle() function to shuffle a list.
-
-
-
-
-
-# Write your solution below:

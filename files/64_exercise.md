@@ -1,8 +1,0 @@
-# Exercise 64
-# Use float() to convert an integer to a float
-
-
-
-
-
-# Write your solution below:

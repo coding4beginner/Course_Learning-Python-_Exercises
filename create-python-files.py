@@ -37,8 +37,8 @@ def process_markdown_with_fsm(markdown_file):
             current_state = State.IDLE
 
             # Save the question and solution to respective files
-            exercise_file = f"files/{question_number.zfill(2)}_exercise.md"
-            solution_file = f"files/{question_number.zfill(2)}_solution.py"
+            exercise_file = f"exercises/{question_number.zfill(2)}.md"
+            solution_file = f"solutions/{question_number.zfill(2)}.py"
 
             with open(exercise_file, "w") as ex_file:
                 ex_file.write(f"# Exercise {question_number}\n")
@@ -55,7 +55,7 @@ def process_markdown_with_fsm(markdown_file):
         else:
             # Handle content for each state
             if current_state in [ State.QUESTION_BODY, State.HINTS ]:
-                question_text += line + "\n"
+                question_text += line
 
             elif current_state == State.SOLUTION_IN_CODE:
                 solution_code += line
